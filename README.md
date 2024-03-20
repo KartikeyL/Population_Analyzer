@@ -4,18 +4,13 @@
 India, a diverse nation of over 1.3 billion people, is home to a plethora of languages. However, many of these languages are in decline, particularly in rural areas. The Diminishing popularity of Rural Languages in India project aims to document, analyze, and provide recommendations for the preservation and revitalization of these languages.
 
 ## Technologies and Tools:
-1. Linguistic analysis and natural language processing libraries: NLTK, spaCy, etc.
-2. Geographical information systems (GIS) and geocoding tools: ArcGIS, Geopandas, etc.
-3. Visualization and mapping libraries: Matplotlib, Folium, etc.
-4. Data cleaning and manipulation tools: pandas, NumPy, Tableau etc.
-5. Database management systems: SQL, MySQL, etc.
+1. Visualization and mapping libraries: Matplotlib, Folium, etc.
+2. Data cleaning and manipulation tools: pandas, NumPy, Tableau etc.
 
 ## Datasets and APIs:
 1. Indian Census Data (Census of India)
 2. Census Language Data (Department of Linguistics and Indian Language Society of India)
-3. Geographical Data (Department of Elevation and Geo-Information)
-4. OpenStreetMap API (for mapping data)
-
+   
 ## Data Processing and Analysis Workflow:
 1. Acquire and clean data from various sources
 2. Analyze language data to identify trends and patterns
