@@ -1,7 +1,7 @@
 # Diminishing_Rural_Languages
 
 ## Project Overview: 
-India, a diverse nation of over 1.3 billion people, is home to a plethora of languages. However, many of these languages are in decline, particularly in rural areas. The Diminishing Rural Languages in India project aims to document, analyze, and provide recommendations for the preservation and revitalization of these languages.
+India, a diverse nation of over 1.3 billion people, is home to a plethora of languages. However, many of these languages are in decline, particularly in rural areas. The Diminishing popularity of Rural Languages in India project aims to document, analyze, and provide recommendations for the preservation and revitalization of these languages.
 
 ## Technologies and Tools:
 1. Linguistic analysis and natural language processing libraries: NLTK, spaCy, etc.
