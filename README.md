@@ -6,7 +6,7 @@ India, a diverse nation of over 1.3 billion people, is home to a plethora of lan
 ## Technologies and Tools:
 1. Linguistic analysis and natural language processing libraries: NLTK, spaCy, etc.
 2. Geographical information systems (GIS) and geocoding tools: ArcGIS, Geopandas, etc.
-3. Visualization and mapping libraries: Matplotlib, Folium, etc.
+3. Visualization and mapping libraries/tools: Matplotlib, Folium,Tableau etc.
 4. Data cleaning and manipulation tools: pandas, NumPy, etc.
 5. Database management systems: SQL, MySQL, etc.
 
